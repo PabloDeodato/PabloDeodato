@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Sistemas de Informação, formado em Design Gráfico, construindo uma carreira em TI focada em Front-End, buscando unir minha experiência em design para fazer<br>grandes criações.</p>
+<p align="left">Sou estudante de Sistemas de Informação, formado em Design Gráfico, construindo uma carreira em TI focada em Front-End, buscando unir minha experiência em design para fazer grandes criações.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h6 align="left">Linguagens</h6>
+<h4 align="left">Linguagens</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -28,11 +28,11 @@
 
 ###
 
-<h6 align="left">Design</h6>
+<h4 align="left">Design</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="behance logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -50,9 +50,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PabloDeodato/PabloDeodato/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/PabloDeodato/PabloDeodato/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=PabloDeodato&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PabloDeodato&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ###
